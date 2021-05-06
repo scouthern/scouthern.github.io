@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "rohitvuppala-bio"
 title_separator          : "-"
 name                     : &name "Rohit K. S. S. Vuppala"
-description              : &description "personal description"
+description              : &description "Ph.D Student"
 url                      : https://rohitvuppala.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &vrkssai
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Rohit K. S. S. Vuppala"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D Student in Machine Learning for Computational Fluid Dynamics applications"
   location         : "Stillwater,OK"
-  employer         :
+  employer         : "Oklahoma State university"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=eAlRaykAAAAJ&hl=en"
   email            :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-6789-2275"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "vrkssai"
   vine             :
   weibo            :
   xing             :
