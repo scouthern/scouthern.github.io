@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant, Engineering Analysis and Methods I"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Oklahoma State University, Mechanical and Aerospace Engineering"
+date: 2020-08-01
+location: "Stillwater, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Setup and solution of equations which govern mechanical engineering systems, application and solution of the governing equations to describe the steady state or transient behavior of dynamics, mechanics and circuit problems was covered. 
 
 Heading 1
 ======
 
-Heading 2
-======
-
-Heading 3
-======

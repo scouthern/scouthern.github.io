@@ -20,21 +20,26 @@ Work experience
 * Summer 2016: Research Assistant
   * McGill University
   * Duties included: Numerical simulation and validation of PEM Fuel Cell.
-  * Supervisor: Professor Agus P. Sasmito
+  * Supervisor: Dr. Agus P. Sasmito
 
-* Spring 2018- Summer 2020: Research Assistant
+* Spring 2018 - Summer 2020: Research Assistant
   * North Carolina State University
   * Duties included: 
-  * Supervisor: Professor Pramod V. Subbareddy
+  * Supervisor: Dr. Pramod V. Subbareddy
+
+* Fall 2020 - (Ongoing): Research Assistant
+  * Oklahoma State University
+  * Duties included: 
+  * Supervisor: Dr. Kursat Kara
   
 Skills
 ======
 * Fortran, Julia, Python, C++ 
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Commercial CFD 
+  * Ansys Fluent
+  * COMSOL
+  * OpenFOAM
+* MPI, HPC applications
 
 Publications
 ======
@@ -54,6 +59,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
