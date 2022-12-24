@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "In Progress"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website till in progress.
+I'm a doctoral student working on Scientific Machine learning with focus on Machine Learning based Reduced Order Modeling.  
 
-Personal website
-======
-In Progress, thanks for visiting!!!
-
+Interests
+=======================
