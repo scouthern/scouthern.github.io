@@ -11,7 +11,7 @@ redirect_from:
 <div style="text-align: justify"> I'm a doctoral student in the <a href="https://ceat.okstate.edu/mae/">School of Mechanical and Aerospace Engineering</a> at Oklahoma State University. My research entails Scientific Machine Learning for CFD applications with major focus on Reduced Order Modeling using Machine Learning. I have a specialisation in Unmanned Aerial Systems and Masters in Computational Fluid Dynamics.</div>
 
 
-**NOTE: PARTS OF THE WEBSITE STILL UNDER CONSTRUCTION**
+**Disclaimer**
 ======
     > :warning: under construction
 
@@ -49,4 +49,4 @@ Events and Updates
 
 Gallery
 ======
-{% include image-gallery.html folder="../files/gallery" %}
+{% include image-gallery.html folder="/files/gallery" %}
