@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-<p style='text-align: justify;'>I'm a doctoral student in the School of Mechanical and Aerospace Engineering, Oklahoma State University, under the supervision of Dr. Kursat Kara. I am currently 
+I'm a doctoral student in the School of Mechanical and Aerospace Engineering, Oklahoma State University, under the supervision of Dr. Kursat Kara. I am currently 
 
 
 working on Scientific Machine Learning with major focus on Reduced Order Modeling using Machine Learning.   
 
 
 WEBSITE STILL UNDER CONSTRUCTION
-=====
+======
 
 
 Recent News
-=====
+======
 <details>
   <summary>2022</summary>
   
