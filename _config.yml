@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "rohitvuppala-bio"
+title                    : "Rohit Vuppala"
 title_separator          : "-"
-name                     : &name "Rohit K. S. S. Vuppala"
+name                     : &name "Rohit Vuppala"
 description              : &description "Ph.D Student"
 url                      : https://rohitvuppala.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rohit K. S. S. Vuppala"
+  name             : "Rohit Vuppala"
   avatar           : "profile.png"
-  bio              : "Ph.D Student in ML,ROM and CFD"
+  bio              : "Researcher in Sci-ML,ROM and CFD"
   location         : "Stillwater,OK"
   employer         : "Oklahoma State University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=eAlRaykAAAAJ&hl=en"
-  email            :
+  email            : "rvuppal@okstate.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -97,7 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "rohitvuppala"
-  google_plus      :
+  google_plus      : 
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"

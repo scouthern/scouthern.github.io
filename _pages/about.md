@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify"> I'm a doctoral student in the <a href="https://ceat.okstate.edu/mae/">School of Mechanical and Aerospace Engineering</a> at Oklahoma State University. My research entails Scientific Machine Learning for CFD applications with major focus on Reduced Order Modeling using Machine Learning. I have a specialisation in Unmanned Aerial Systems and Masters in Computational Fluid Dynamics.</div>
+Welcome!, I'm a doctoral researcher applying machine learning tools for scientific applications. I am currently a student in the [School of Mechanical and Aerospace Engineering](https://www.ceat.okstate.edu/mae) at Oklahoma State University (OSU). I work in the [KARA Lab](https://www.kursatkara.com) under the mentorship of Dr. Kursat Kara. I am a Roy Virginia Dorrough Graduate Fellow, Vice-President of Mechanical and Aerospace Engineering Graduate Student Association at OSU and an ex-Visiting Researcher at [Palo Alto Research Center](https://www.parc.com). 
 
 
-**Disclaimer**
+My research entails Scientific Machine Learning for Computational Fluid Dynamics applications with major focus on Reduced Order Modeling using Machine Learning for Unmanned Aerial Systems in Urban air spaces. I also have a specialisation in Unmanned Aerial Systems during my Ph.D. and Masters in Computational Fluid Dynamics from North Carolina State University, Raleigh. My academic work has been [published](publications) in various conferences like AIAA Scitech/Aviation, AMS, APS-DFD, SIAM and journals. I have a Level 1 High Powered Rocketry certification and enjoy  
+
+
+**Watch out !**
 ======
-    > :warning: under construction
+Parts of the website are under construction {: .notice}
 
 Events and Updates
 ====== 
