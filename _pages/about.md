@@ -13,16 +13,18 @@ redirect_from:
 
 **NOTE: PARTS OF THE WEBSITE STILL UNDER CONSTRUCTION**
 ======
- <div class="alert">
-  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-  PARTS OF THE WEBSITE STILL UNDER CONSTRUCTION
-</div> 
+    > :warning: under construction
 
 Events and Updates
 ====== 
 
+
+
 <details>
 <summary>2023</summary>
+<ul> <b>March 9, 2023 </b> : We successfully conduct an "Intro to Scientific Machine Learning" workshop as part of DataByte workshop series, Edmon Low library, OSU. 
+![library](../files/library.jpg)
+</ul>
 <ul> <b>Feb 3, 2023 </b> : I'm awarded the Graduate Student Support scholarship from the School of Mechanical and Aerospace Engineering, Oklahoma State University.
 </ul>
 <ul> <b>Jan 27, 2023 </b> : I presented a talk at AIAA SciTech Forum 2023 at National Harbor, Maryland. 
