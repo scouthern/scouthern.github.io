@@ -23,7 +23,7 @@ Events and Updates
 <details>
 <summary>2023</summary>
 <ul> <b>March 9, 2023 </b> : We successfully conduct an "Intro to Scientific Machine Learning" workshop as part of DataByte workshop series, Edmon Low library, OSU. 
-![library](../files/library.jpg)
+<img src="../files/library.jpg" alt="library">
 </ul>
 <ul> <b>Feb 3, 2023 </b> : I'm awarded the Graduate Student Support scholarship from the School of Mechanical and Aerospace Engineering, Oklahoma State University.
 </ul>
