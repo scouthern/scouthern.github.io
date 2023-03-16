@@ -14,12 +14,12 @@ redirect_from:
 working on Scientific Machine Learning with major focus on Reduced Order Modeling using Machine Learning.   
 
 
-## STILL UNDER CONSTRUCTION
+WEBSITE STILL UNDER CONSTRUCTION
+=====
 
 
-
-## Recent News
-
+Recent News
+=====
 <details>
   <summary>2022</summary>
   
