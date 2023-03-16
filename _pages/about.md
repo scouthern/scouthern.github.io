@@ -50,4 +50,3 @@ Events and Updates
 Gallery
 ======
 {% include image-gallery.html folder="../files/gallery" %}
-[![library](../files/gallery/library.jpg)](../files/gallery/library.jpg)
