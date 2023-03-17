@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+Please find my _Curriculum Vitae_ [here](/files/My_CV_latest.pdf) for download.
 
 <iframe src="/files/My_CV_latest.pdf" width="100%" height="1000" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
