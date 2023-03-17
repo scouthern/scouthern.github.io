@@ -1,1 +1,1 @@
-Personal wensite repository.
+Personal website repository.
