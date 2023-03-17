@@ -16,21 +16,27 @@ My research entails Scientific Machine Learning for Computational Fluid Dynamics
 
 Please find my _Curriculum Vitae_ [here!](/files/My_CV_latest.pdf)
 
-**Watch out !**
+
+
+
+
+**!:warning: Watch out :warning:!**
 ======
-Parts of the website are under construction :sweat_smile:
+
+<image src="/files/giphy.gif" alt="Spinners" width="250" /> 
+Parts of the website are still under construction :sweat_smile:
 
 Events and Updates
 ====== 
 
 <details>
 <summary>2023</summary>
-<ul> <b>March 9, 2023 </b> : We successfully conduct an "Intro to Scientific Machine Learning" workshop as part of DataByte workshop series, Edmon Low library, OSU. 
+<ul> <b>March 9, 2023 </b> : We successfully conduct an <a href="https://okstate.libcal.com/event/10338149">"Intro to Scientific Machine Learning" </a> workshop as part of DataByte workshop series, Edmon Low library, OSU. 
 
 </ul>
-<ul> <b>Feb 3, 2023 </b> : I'm awarded the Graduate Student Support scholarship from the School of Mechanical and Aerospace Engineering, Oklahoma State University.
+<ul> <b>Feb 3, 2023 </b> : I am awarded the Graduate Student Support scholarship from the School of Mechanical and Aerospace Engineering. I thank my advisor and graduate program coordinator for the opportunity.
 </ul>
-<ul> <b>Jan 27, 2023 </b> : I presented a talk at AIAA SciTech Forum 2023 at National Harbor, Maryland. 
+<ul> <b>Jan 27, 2023 </b> : I presented a talk at AIAA SciTech Forum 2023 at National Harbor, Maryland.
 </ul>
 <ul> <b>Jan 8, 2023 </b> : I presented a talk in 15th Symposium on Urban Environment at the 103rd AMS Annual Meeting, Denver, Colorado.  
 </ul>
@@ -47,6 +53,7 @@ Events and Updates
 
     <ul> <b>Nov 13, 2022</b> : I successfully complete my level 1 high powered rocketry launch. Thank you, OSU Space Cowboys and <a href="https://www.kloudbusters.org/"> Kloudbusters. </a> </ul>
 
+
     <ul> <b>Aug, 2022</b> : I complete my internship as Scientific Machine Learning Researcher at <a href="https://www.parc.com/">Palo Alto Research Center </a>, Palo Alto, California. </ul>
 
 </details>
@@ -54,4 +61,5 @@ Events and Updates
 
 Gallery
 ======
+ <image src="/files/rocket.gif" alt="rocket" width="250" />
 {% include image-gallery.html folder="/files/gallery" %}
