@@ -4,6 +4,10 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
+plugins:
+    - jekyll-remote-theme
+remote_theme : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin : "dark" # "air", "aqua", "dirt" , "neon"
 
 # Site Settings
 locale                   : "en-US"
@@ -267,9 +271,6 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-jemoji
-  - jekyll-remote-theme
-remote_theme : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin : "dark" # "air", "aqua", "dirt" , "neon"
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
