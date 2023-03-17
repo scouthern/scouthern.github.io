@@ -14,7 +14,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: 0em 0em 0em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -28,6 +28,13 @@
     a {
       text-decoration: none;
     }
+  }
+  &.sticky{
+   @include clearfix();
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0em;
+    float: auto;
   }
 }
 
