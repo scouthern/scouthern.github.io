@@ -8,43 +8,40 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm a researcher working in the field of applying machine learning tools for scientific applications. I am currently a doctoral candidate in the [School of Mechanical and Aerospace Engineering](https://ceat.okstate.edu/mae) at Oklahoma State University (OSU). I work in the [KARA Lab](https://www.kursatkara.com) under the mentorship of Dr. Kursat Kara. 
+Hello, I'm a graduate research assistant working in aerospace engingineering psychology for Unmanned Aerial Systems  and General Aviation pilots. I am a masters student in the [School of Mechanical and Aerospace Engineering](https://ceat.okstate.edu/mae) at Oklahoma State University (OSU). I work in the [AEON Lab] (https://aeon.nicolettafala.com/) under the advisement of Dr. Nicoletta Fala. 
 
-I am a **_Roy Virginia Dorrough Graduate Fellow_**, **_Vice-President_** of Mechanical and Aerospace Engineering Graduate Student Association at OSU and an ex- **_Visiting Researcher_** at [Palo Alto Research Center](https://www.parc.com). 
+I led the Oklahoma State University [Argonia Cup] (http://www.argoniacup.com/) Senior Design team to victory in 2021. I was a research assistant for [OCAST] (https://oklahoma.gov/ocast.html) project and funded through an Undergraduate Research Scholarship. I volunteered as a mentor for engineering freshmen for the [Mentor Collective Program] (https://www.mentorcollective.org/) from August 2020 to May of 2021. I was a member for[EWB] (https://www.ewb-usa.org/) and enjoy volunteering at Habitat for Humanity with the club.
 
-My research entails Scientific Machine Learning for Computational Fluid Dynamics applications with major focus on Reduced Order Modeling using Machine Learning for Unmanned Aerial Systems in Urban air spaces. I also have a specialisation in Unmanned Aerial Systems during my Ph.D. and Masters in Computational Fluid Dynamics from North Carolina State University, Raleigh. My academic work has been [published](publications) in various conferences like AIAA Scitech/Aviation, AMS, APS-DFD, SIAM and journals. I have a Level 1 High Powered Rocketry certification and enjoy hiking!.   
+My research includes qualitative research methodologies to identify pilot and operator preferences for and challenges with weather communication services. I have conducted studies 
 
-Please find my _Curriculum Vitae_ [here!](/files/My_CV_latest.pdf)
+Please find my _Curriculum Vitae_ [here!](/files/Hernandez Resume.pdf)
 
 
 
 News and Updates
 ====== 
 ## 2023
-<ul> <b>- March 9, 2023 </b> : We successfully conduct an <a href="https://okstate.libcal.com/event/10338149">"Intro to Scientific Machine Learning" </a> workshop as part of DataByte workshop series, Edmon Low library, OSU.</ul> 
-<ul> <b>- Feb 3, 2023 </b> : I am awarded the Graduate Student Support scholarship from the School of Mechanical and Aerospace Engineering. I thank my advisor and graduate program coordinator for the opportunity.</ul>
-<ul> <b>- Jan 27, 2023 </b> : I presented a talk at AIAA SciTech Forum 2023 at National Harbor, Maryland.</ul>
-<ul> <b>- Jan 8, 2023 </b> : I presented a talk in 15th Symposium on Urban Environment at the 103rd AMS Annual Meeting, Denver, Colorado.</ul>
-
+<ul> <b>- March 24, 2023 </b> : I was a member of the judging pannel for [OSSEF] (https://ossef.okstate.edu/) Division II. </ul> 
+<ul> <b>- March 26, 2022 </b> I was a member of the judging pannel for [OSSEF] (https://ossef.okstate.edu/) Division I and Division II.: </ul>
+<ul> <b>- Oct 13, 2022 </b> : I received my Level 2 [Tripoli Rocketry Certification] (https://www.tripoli.org/). </ul>
+<ul> <b>- Jan 8, 2023 </b> : I introduced young minds to aviation using virtual reality at [EPSCOR] (https://www.okepscor.org/calendar/2022-women-science-conference). </ul>
+<ul> <b>- Jan 8, 2023 </b> : I introduced students to AEON lab as a part of the </ul>
 
 <details>
   <summary><b>2022</b></summary>
-    <ul> <b>- Dec, 2022</b> : I complete my tenure as visiting researcher at the fabled <a href="https://www.parc.com/">Palo Alto Research Center </a> at Stanford Research Park, Palo Alto, California.
+    <ul> <b>- Dec, 2022</b> : 
 </ul>
 
-  <ul> <b>- Nov 21, 2022</b> : I was awarded J.Roy and Virginia Dorrough Distinguished Graduate Fellowship from <a href="https://ceat.okstate.edu/">College of Engineering Architecture and Technology</a>, Oklahoma State University.</ul>
+  <ul> <b>- Nov 21, 2022</b> : </ul>
 
-    <ul> <b>- Nov 13, 2022</b> : I successfully complete my level 1 high powered rocketry launch. Thank you, OSU Space Cowboys and <a href="https://www.kloudbusters.org/"> Kloudbusters. </a> </ul>
+    <ul> <b>- Nov 13, 2022</b> :  </ul>
 
 
-    <ul> <b>- Aug, 2022</b> : I complete my internship as Scientific Machine Learning Researcher at <a href="https://www.parc.com/">Palo Alto Research Center </a>, Palo Alto, California. </ul>
+    <ul> <b>- Aug, 2022</b> :  </ul>
 
 </details>
 
 
 Gallery
 ======
-
- <image src="/files/rocket.gif" alt="rocket"/>
-High Power Rocketry Level 1 Launch
 {% include image-gallery.html folder="/files/gallery" %}
