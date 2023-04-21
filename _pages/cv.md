@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-Please find my _Curriculum Vitae_ [here](/files/My_CV_latest.pdf) for download.
+Please find my _Resume_ [here](/files/Hernandez Resume.pdf) for download.
 
-<iframe src="/files/My_CV_latest.pdf" width="100%" height="1000" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/Hernandez Resume.pdf" width="100%" height="1000" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 
 
@@ -18,35 +18,14 @@ Please find my _Curriculum Vitae_ [here](/files/My_CV_latest.pdf) for download.
 <!---
 Education
 ======
-* B.Tech.(Hons) in Mechanical Engineering, National Institute of Technology Trichy (NITT), India.
-* M.S. in Mechanical Engineering, North Carolina State University, 2020
-* Ph.D in ML,ROM for CFD applications, Oklahoma State University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2016: Research Assistant
-  * McGill University
-  * Duties included: Numerical simulation and validation of PEM Fuel Cell.
-  * Supervisor: Dr. Agus P. Sasmito
 
-* Spring 2018 - Summer 2020: Research Assistant
-  * North Carolina State University
-  * Duties included: 
-  * Supervisor: Dr. Pramod V. Subbareddy
-
-* Fall 2020 - (Ongoing): Research Assistant
-  * Oklahoma State University
-  * Duties included: 
-  * Supervisor: Dr. Kursat Kara
   
 Skills
 ======
-* Fortran, Julia, Python, C++ 
-* Commercial CFD 
-  * Ansys Fluent
-  * COMSOL
-  * OpenFOAM
-* MPI, HPC applications
+
 
 Publications
 ======
