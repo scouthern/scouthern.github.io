@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!, I'm a researcher working in the field of applying machine learning tools for scientific applications. I am currently a doctoral candidate in the [School of Mechanical and Aerospace Engineering](https://ceat.okstate.edu/mae) at Oklahoma State University (OSU). I work in the [KARA Lab](https://www.kursatkara.com) under the mentorship of Dr. Kursat Kara. 
+Hello, I'm a researcher working in the field of applying machine learning tools for scientific applications. I am currently a doctoral candidate in the [School of Mechanical and Aerospace Engineering](https://ceat.okstate.edu/mae) at Oklahoma State University (OSU). I work in the [KARA Lab](https://www.kursatkara.com) under the mentorship of Dr. Kursat Kara. 
 
 I am a **_Roy Virginia Dorrough Graduate Fellow_**, **_Vice-President_** of Mechanical and Aerospace Engineering Graduate Student Association at OSU and an ex- **_Visiting Researcher_** at [Palo Alto Research Center](https://www.parc.com). 
 
