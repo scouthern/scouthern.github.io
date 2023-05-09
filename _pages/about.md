@@ -27,7 +27,7 @@ News and Updates
 
 ## 2022
 <ul> <b>- Oct 13, 2022 </b> : I received my Level 2 <a href="https://www.tripoli.org/"> "Tripoli Rocketry Certification." </a></ul>
-<ul> <b>- March 30, 2022 </b> : I presented a poster at the <a href="https://ceat.okstate.edu/mae/research/gsc/symposium/"> "Mechanical and Aerospace Engineering, Graduate Research Symposium." </a></ul
+<ul> <b>- March 30, 2022 </b> : I presented a poster at the <a href="https://ceat.okstate.edu/mae/research/gsc/symposium/"> "Mechanical and Aerospace Engineering, Graduate Research Symposium." </a></ul>
 <ul> <b>- March 26, 2022 </b> I was a member of the judging pannel for <a href="https://ossef.okstate.edu/)"> "OSSEF" </a> Division I and Division II. </ul>
 
 
