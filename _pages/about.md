@@ -22,26 +22,13 @@ News and Updates
 ====== 
 ## 2023
 <ul> <b>- March 24, 2023 </b> : I was a member of the judging pannel for <a href="https://ossef.okstate.edu/)"> "OSSEF" </a> Division II. </ul> 
-<ul> <b>- March 26, 2022 </b> I was a member of the judging pannel for <a href="https://ossef.okstate.edu/)"> "OSSEF" </a> Division I and Division II. </ul>
-<ul> <b>- Oct 13, 2022 </b> : I received my Level 2 <a href="https://www.tripoli.org/"> "Tripoli Rocketry Certification." </a></ul>
 <ul> <b>- Jan 8, 2023 </b> : I introduced young minds to aviation using virtual reality at <a href="https://www.okepscor.org/calendar/2022-women-science-conference">"EPSCOR." </a></ul>
 <ul> <b>- Jan 8, 2023 </b> : I introduced students to AEON lab as a part of the <a href="https://ceat.okstate.edu/stem/summer-camps/ceat-discovery-days.html/"> "Stem Ceat Discovery Day." </a></ul>
-<ul> <b>- March 30, 2022 </b> : I presented a poster at the <a href="https://ceat.okstate.edu/mae/research/gsc/symposium/"> "Mechanical and Aerospace Engineering, Graduate Research Symposium." </a></ul>
 
-
-<details>
-  <summary><b>2022</b></summary>
-    <ul> <b>- Dec, 2022</b> : 
-</ul>
-
-  <ul> <b>- Nov 21, 2022</b> : </ul>
-
-    <ul> <b>- Nov 13, 2022</b> :  </ul>
-
-
-    <ul> <b>- Aug, 2022</b> :  </ul>
-
-</details>
+## 2022
+<ul> <b>- Oct 13, 2022 </b> : I received my Level 2 <a href="https://www.tripoli.org/"> "Tripoli Rocketry Certification." </a></ul>
+<ul> <b>- March 30, 2022 </b> : I presented a poster at the <a href="https://ceat.okstate.edu/mae/research/gsc/symposium/"> "Mechanical and Aerospace Engineering, Graduate Research Symposium." </a></ul
+<ul> <b>- March 26, 2022 </b> I was a member of the judging pannel for <a href="https://ossef.okstate.edu/)"> "OSSEF" </a> Division I and Division II. </ul>
 
 
 Gallery
