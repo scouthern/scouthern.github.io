@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Resume"
-permalink: /resume/
+title: "CV"
+permalink: /CV/
 author_profile: true
 redirect_from:
-  - /resume
+  - /CV
 ---
 
 Please find my _CV_ [here](/files/Scout_Hernandez_CV.pdf) for download.
