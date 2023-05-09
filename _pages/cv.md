@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-Please find my _Resume_ [here](/files/Scout_Hernandez_CV.pdf) for download.
+Please find my _CV_ [here](/files/Scout_Hernandez_CV.pdf) for download.
 
-<iframe src="/files/Hernandez Resume.pdf" width="100%" height="1000" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/Scout_Hernandez_CV.pdf" width="100%" height="1000" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 
 
