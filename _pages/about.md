@@ -14,7 +14,7 @@ I led the Oklahoma State University [Argonia Cup](http://www.argoniacup.com/) Se
 
 My research includes qualitative research methodologies to identify pilot and operator preferences for and challenges with weather communication services. I have conducted studies 
 
-Please find my _Curriculum Vitae_ [here!](/files/Hernandez Resume.pdf)
+Please find my _Curriculum Vitae_ [here!](/files/Scout_Hernandez_CV.pdf)
 
 
 
